@@ -23,14 +23,14 @@ repository               : "Hermi-Mire/Hermi-Mire.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   name             : "Buwei He"
   pronouns         : "he/him"
   bio              : "PhD Candidate"
   location         : "Beijing, China"
   employer         : "BUPT"
   uri              : # URL
-  email            :  ""
+  email            :  #""
 
   # Academic websites
   academia         : # URL
