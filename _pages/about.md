@@ -17,7 +17,8 @@ supervised by Professor [Zhaofeng He](https://teacher.bupt.edu.cn/hezhaofeng/en/
 and researcher [Yipeng Kang](https://fringsoo.github.io/). 
 
 I received my MSc degree with distinction in Data Science from the [University of Glasgow](https://www.gla.ac.uk/) 
-in 2023. It's a <a href="images/gla_winter_spring.jpg" class="image-popup" data-fancybox="gallery" data-caption="University of Glasgow">
+in 2023. It's a 
+<a href="images/gla_winter_spring.jpg" class="image-popup" data-fancybox="gallery" data-caption="University of Glasgow">
     beautiful school
 </a>
 in Scotland that is said to have been the architectural inspiration for Harry Potter. 
@@ -41,7 +42,10 @@ Education
 
 **Others**
 ------
-- Loves all kinds of sports. Proficient in badminton🏸, recently got hooked on snooker🎱 and cycling :bicyclist:, 
-- just learned how to swim and in preparation for license to enter deep zone :swimmer:.
+- Loves all kinds of sports. Proficient in badminton🏸, recently got hooked on snooker🎱 and cycling 
+<a href="images/cycling.jpg" data-fancybox="gallery" data-caption="Xin Shou Gang Bridge, Beijing, China">
+    :bicyclist:
+</a>, 
+just learned how to swim and in preparation for license to enter deep zone :swimmer:.
 - I play guitar to relax, some satisfying pieces [Mia & Sebastian's Theme clip](https://www.bilibili.com/video/BV1PR4y1y7Jk/?share_source=copy_web&vd_source=2aebbed19ead036153b1288dca190b7d), [彼方へ](https://www.bilibili.com/video/BV1T5411G7XR/?share_source=copy_web&vd_source=2aebbed19ead036153b1288dca190b7d)<br>
 <iframe src="//player.bilibili.com/player.html?aid=348633524&bvid=BV1PR4y1y7Jk&cid=921993103&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
