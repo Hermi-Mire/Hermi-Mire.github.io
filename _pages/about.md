@@ -11,15 +11,13 @@ redirect_from:
 <img src="https://hermi-mire.github.io/images/profile01.jpg" class="floatpic">
 
 
-<img src="https://hermi-mire.github.io/images/profile01.jpg" style="float: right; margin-left: 1em; width: 33%;">
-
 I'm doing my PhD in [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) 
 & [Beijing Institute for General Artificial Intelligence (BIGAI)](https://eng.bigai.ai/), 
 supervised by Professor [Zhaofeng He](https://teacher.bupt.edu.cn/hezhaofeng/en/index.htm) 
 and researcher [Yipeng Kang](https://fringsoo.github.io/). 
 
 I received my MSc degree with distinction in Data Science from the [University of Glasgow](https://www.gla.ac.uk/) 
-in 2023. It's a <a href="images/gla_winter_spring.jpg" class="image-popup">beautiful school</a> 
+in 2023. It's a <a href="images/gla_winter_spring.jpg" class="image-popup" title="University of Glasgow"> beautiful school</a> 
 in Scotland that is said to have been the architectural inspiration for Harry Potter. 
 My master's thesis research was on optimizing document expansion using reinforcement learning, 
 supervised by Dr [Sean MacAvaney](https://macavaney.us/) and 
