@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Buwei He / Home Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Buwei He"
 description              : &description "PhD Candidate in BUPT"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "Hermi-Mire/Hermi-Mire.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Buwei He"
   pronouns         : "he/him"
   bio              : "PhD Candidate"
